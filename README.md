@@ -1,3 +1,3 @@
 # 3d-flocking-movement-simulation
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+![test](https://github.com/EmreNtm/3d-flocking-movement-simulation/blob/master/Balls/images/GIF.gif)
